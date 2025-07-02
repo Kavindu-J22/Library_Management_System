@@ -83,7 +83,7 @@ CREATE DATABASE LibraryManagement;
 
 2. Update the connection string in `Data/LibraryContext.cs`:
 ```csharp
-string connectionString = "Server=localhost;Database=LibraryManagement;Uid=root;Pwd=your_password;";
+string connectionString = "Server=localhost;Database=LibraryManagement;Uid=root;Pwd=root;";
 ```
 
 3. Run the provided SQL schema:
