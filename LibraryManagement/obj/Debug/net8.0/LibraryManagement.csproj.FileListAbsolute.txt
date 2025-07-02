@@ -29,3 +29,4 @@ D:\QL\Library_Management_System\LibraryManagement\obj\Debug\net8.0\refint\Librar
 D:\QL\Library_Management_System\LibraryManagement\obj\Debug\net8.0\LibraryManagement.pdb
 D:\QL\Library_Management_System\LibraryManagement\obj\Debug\net8.0\LibraryManagement.genruntimeconfig.cache
 D:\QL\Library_Management_System\LibraryManagement\obj\Debug\net8.0\ref\LibraryManagement.dll
+D:\QL\Library_Management_System\LibraryManagement\obj\Debug\net8.0\LibraryManagement.sourcelink.json
